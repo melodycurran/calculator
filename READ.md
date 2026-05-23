@@ -11,7 +11,7 @@ The UI demonstrates layout management with `Frame` and `grid`, dynamic display s
 
 **Demo video:**
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/mxZ7TgRnf_E)
 
 # Development Environment
 
@@ -23,7 +23,7 @@ The UI demonstrates layout management with `Frame` and `grid`, dynamic display s
 Quick run instructions:
 
 ```bash
-python calculator.py
+main.py or python main.py
 ```
 
 # Useful Websites
@@ -33,5 +33,4 @@ python calculator.py
 - Real Python — Tkinter tutorials: https://realpython.com/python-gui-tkinter/
 - Python docs (language reference): https://docs.python.org/3/
 - Stack Overflow (search for specific Tkinter/layout questions): https://stackoverflow.com/
-
-If you used additional resources while working on this project, add them here so others can follow the same learning path.
+- Youtube: https://www.youtube.com/watch?v=owbU6WzIhhg
